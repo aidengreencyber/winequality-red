@@ -1,3 +1,3 @@
 # winequality-red
-Pytorch model representing red wine quality </br>
+<h1>Pytorch model representing red wine quality </h1></br>
 Link: https://aidengreencyber.github.io/winequality-red/
