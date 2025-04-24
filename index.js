@@ -26,7 +26,7 @@ async function runExample() {
 
    let predictions = document.getElementById('predictions');
 
-  predictions.innerHTML = ` <hr> Got an output tensor with values: <br/>
+  predictions.innerHTML = ` <hr> Your Wine Quality Rating Value is: <br/>
    <table>
      <tr>
        <td>  Red Wine Quality Rating  </td>
